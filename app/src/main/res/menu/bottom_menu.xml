@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anasayfaFragment"
+        android:icon="@drawable/home_icon"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/kisiBilgiFragment"
+        android:icon="@drawable/person_icon"
+        android:title="Hesap" />
+    <item
+        android:id="@+id/aramaSayfaFragment"
+        android:icon="@drawable/search_icon"
+        android:title="Arama Sayfası" />
+</menu>
